@@ -1,0 +1,8 @@
+ZeroDivisionError: division by 0
+NameError: name not defined
+StringError: Cannot conacatenate different data types
+RuntimeError:
+ConnectionError:
+
+Exception instance and exception class
+Base exeptions
